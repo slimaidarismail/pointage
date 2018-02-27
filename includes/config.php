@@ -1,6 +1,6 @@
 <?php
 
-define("db_host", 'localhost'); 
+define("db_host", 'localhost:2018'); 
 define("db_dbname", 'wepointage'); 
 define("db_user", 'root'); 
 define("db_pass", ''); 
@@ -10,7 +10,7 @@ define("db_dbname_sqlserver", 'pointage');
 define("db_user_sqlserver", 'rootAdmin'); 
 define("db_pass_sqlserver", ''); 
 
-define("root", 'http://192.168.1.250/WE-Pointage/'); 
+define("root", 'http://localhost:2018/WE-Pointage/'); 
 
 
 // HrEmployee
